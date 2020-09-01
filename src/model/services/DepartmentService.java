@@ -14,5 +14,4 @@ public class DepartmentService {
 		list.add(new Department(3, "Eletronics"));
 		return list;
 	}
-
 }
